@@ -48,6 +48,7 @@
 				"activities": [
 					{
 						"name": "lkp_read_customer",
+						"description": "Reading customer table.",
 						"type": "Lookup",
 						"dependsOn": [],
 						"policy": {
