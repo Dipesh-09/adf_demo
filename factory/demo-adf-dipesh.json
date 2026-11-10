@@ -1,0 +1,21 @@
+{
+	"name": "demo-adf-dipesh",
+	"properties": {
+		"globalParameters": {
+			"email_recepient": {
+				"type": "string",
+				"value": "suthardipesh9@gmail.com"
+			}
+		},
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "da4b614a-09bf-415e-a346-73916cc467f3",
+		"tenantId": "fe4dcf23-7241-41d7-b0b5-3fa42f8b43c8"
+	}
+}
